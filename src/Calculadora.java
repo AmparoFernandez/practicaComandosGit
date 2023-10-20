@@ -5,6 +5,7 @@ public class Calculadora {
 		// TODO Auto-generated method stub
 		int inicial;
 		int suma;
+		int multiplicacion;
 	}
 
 }
